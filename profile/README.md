@@ -64,29 +64,26 @@ SkyWalk is a flight planning tool designed for general aviation pilots. It provi
 
 ---
 
-#### `runway.py`
+#### `runway`
 Runway performance calculations including:
 - POH data fitting and regression modeling
 - Wind correction (headwind/tailwind/crosswind)
 - Surface and condition corrections (dry/wet, hard/soft)
 - Slope adjustments
 - Safety margin application
-
-#### `runway.js`
-Client-side runway visualization:
 - SVG generation for runway layouts
 - Surface-based color coding
 - Runway geometry normalization and centering
 - Interactive runway overview diagrams
 
-#### `weightbalance.js`
+#### `weightbalance`
 Weight & balance calculations:
 - Moment and CG computation
 - Envelope boundary checking
 - Chart.js integration for visual plotting
 - Multi-scenario support (departure/arrival/settings)
 
-#### `tab_aerodrome.py`
+#### `tab_aerodrome`
 Aerodrome information management:
 - METAR/TAF retrieval and parsing
 - ATC frequency management
@@ -188,7 +185,7 @@ Documentation covers:
 
 - This software is **NOT certified** for operational flight planning
 - Always verify all calculations with the official aircraft POH
-- METAR/TAF data should be always be manually verified
+- METAR/TAF data should always be manually verified
 - Runway and aerodrome data should be verified with current NOTAM and charts
 - The developer assumes **NO LIABILITY** for use of this software
 
@@ -211,7 +208,7 @@ Documentation covers:
 
 **Copyright (C) 2024-2025, E.Taskesen - All Rights Reserved**
 
-Unauthorized copying, modification, or distribution of this software, via any medium, is strictly prohibited. This software is proprietary and confidential.
+Unauthorised copying, modification, or distribution of this software, via any medium, is strictly prohibited.
 
 ---
 

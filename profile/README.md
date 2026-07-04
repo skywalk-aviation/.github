@@ -21,9 +21,9 @@ SkyWalk is a flight planning and preparation tool designed for general aviation 
 
 ## 🚀 Quick Start
 
-**Access the application:** [https://skywalkflight.com](https://skywalkflight.com)
+**[Access the application](https://skywalkflight.com)**
 
-**Read the documentation:** [https://skywalk-aviation.github.io/docs/](https://skywalk-aviation.github.io/docs/)
+**[Read the documentation](https://skywalk-aviation.github.io/docs/pages/html/index.html)**
 
 ---
 
